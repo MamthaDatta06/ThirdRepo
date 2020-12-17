@@ -11,7 +11,7 @@ for(int i=0;i<=s.length()-1;i++)
 {
 	if(Character.isWhitespace(s.charAt(i)))
 	{
-		System.out.println("whitespaces are there...");
+		System.out.println("whitespaces are there12321321...");
 		
 	}
 }
